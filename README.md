@@ -26,7 +26,7 @@ Tecnologías utilizadas:
 Descargar de archivos: 
 
 - git 
-- git clone 
+- git clone https://github.com/Alterlapsus/PracticaGallery.git
 
 ---
 
