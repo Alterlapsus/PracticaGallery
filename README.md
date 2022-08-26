@@ -1,7 +1,7 @@
 # Gallery
 - Se realiza una gallery para practicar con los conocimiento adquiridos de CSS - GRID
 
----
+
 <a href="https://practicagallery.netlify.app/">Ver WebSite</a>
 
 - Desktop
